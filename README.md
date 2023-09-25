@@ -18,7 +18,7 @@ named arguments:
 For example:
 ```
 tesseract sample.jpg sample -c hocr_char_boxes=1 hocr
-tesschar.py -f sample.jpg -t O,o
+tesschar.py -f sample.jpg -t O,B
 ```
 By default, the output will be in the base of the filename, _sample.txt_ in this case. Note that
 a border is put around the extracted character to help improve the results. If an hocr file
