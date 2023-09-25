@@ -6,7 +6,7 @@ Usage (see list of options):
 
 For example:
     tesschar.py -f test.jpg
-    tesschar.py -f test.jpg -t O,o
+    tesschar.py -f test.jpg -t O,B
 
 - art rhyno, u. of windsor & ourdigitalworld
 """
